@@ -1,7 +1,8 @@
 # ChatGPT/LangChainによるチャットシステム構築［実践］入門
 
 このリポジトリは [こちら](https://github.com/yoshidashingo/langchain-book)
-で公開されているコードのTypeScript で実施したリポジトリです。
+で公開されているコードのTypeScript で実施したリポジトリです。 deno
+で実行しています。
 
 ## ●第4章 　LangChainの基礎
 
