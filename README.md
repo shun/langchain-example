@@ -121,17 +121,3 @@
 ### 9.6 個人データ保護の観点
 
 ### 9.7 EUが定める禁止AI・ハイリスクAIの取り扱いの動向
-
-## 第4章 　LangChainの基礎
-
-### 4.1 LangChainの概要
-
-### 4.2 Language models
-
-### 4.3 Prompts
-
-### 4.4 Output parsers
-
-### 4.5 Chains
-
-### 4.6 Memory
